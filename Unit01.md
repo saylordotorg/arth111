@@ -1,3 +1,9 @@
+---
+layout: default
+course: ARTH111
+course_fulltitle: "Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
+course_description: "Introductory survey of the important movements and influential figures in Western art from the Proto-Renaissance in Italy to the contemporary art of the twentieth century."
+---
 -   **Unit 1: The Proto-Renaissance In Italy: 13th Century**  
 
     *The beginning of the period known as the Renaissance is generally

@@ -1,3 +1,9 @@
+---
+layout: default
+course: ARTH111
+course_fulltitle: "Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
+course_description: "Introductory survey of the important movements and influential figures in Western art from the Proto-Renaissance in Italy to the contemporary art of the twentieth century."
+---
 -   **Unit 9: The Twentieth Century to WWII**  
 
     *Early in the 20th century, “modernism” in art came to be closely
