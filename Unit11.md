@@ -1,9 +1,10 @@
 ---
 layout: default
-course: ARTH111
-title: "ARTH111 - Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
-course_fulltitle: "Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
+title: "ARTH111: Introduction to Western Art History - Proto-Renaissance to Contemporary Art"
 course_description: "Introductory survey of the important movements and influential figures in Western art from the Proto-Renaissance in Italy to the contemporary art of the twentieth century."
+next: ../../../
+previous: ../Unit10
+bgimage: arth111.jpg
 ---
 -   **Unit 11: Final Exam**  
     -   **Final Exam: The Saylor Foundation's ARTH111 Final Exam**

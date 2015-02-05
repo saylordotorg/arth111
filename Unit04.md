@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH111 - Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
-course: ARTH111
-course_fulltitle: "Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
+title: "ARTH111: Introduction to Western Art History - Proto-Renaissance to Contemporary Art"
 course_description: "Introductory survey of the important movements and influential figures in Western art from the Proto-Renaissance in Italy to the contemporary art of the twentieth century."
+next: ../Unit05
+previous: ../Unit03
+bgimage: arth111.jpg
 ---
 -   **Unit 4: The Later Renaissance - Sixteenth Century Italian Art**  
 
