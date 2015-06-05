@@ -33,9 +33,9 @@ bgimage: arth111.jpg
 
     Completing this unit should take you approximately 2.25 hours.  
        
-     ☐ Subunit 5.1: 1 hour  
+     ☐ Subunit 6.1: 1 hour  
        
-     ☐ Subunit 5.2: 1.25 hours 
+     ☐ Subunit 6.2: 1.25 hours 
 
     **Unit6 Learning Outcomes**  
 
