@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH111: Introduction to Western Art History - Proto-Renaissance to Contemporary Art"
@@ -6,6 +7,10 @@ next: ../Unit01
 previous: ../../../
 bgimage: arth111.jpg
 ---
+=======
+<span style="background-color: yellow;">Please note: this is a <a href="https://sayloracademy.zendesk.com/hc/en-us/articles/206089967" target="_blank">legacy course</a>. It is open for learning but unsupported. To find supported, current courses, <a href="https://learn.saylor.org" target="_blank">visit our Learn site</a>.</span>
+
+>>>>>>> b02f75542f0e6dfacf60949b6a71a34a23f41d09
 Course Syllabus for "ARTH111: Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
 ---------------------------------------------------------------------------------------------------------
 
