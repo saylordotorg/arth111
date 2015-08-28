@@ -1,3 +1,5 @@
+<span style="background-color: yellow;">Please note: this is a <a href="https://sayloracademy.zendesk.com/hc/en-us/articles/206089967" target="_blank">legacy course</a>. It is open for learning but unsupported. To find supported, current courses, <a href="https://learn.saylor.org" target="_blank">visit our Learn site</a>.</span>
+
 Course Syllabus for "ARTH111: Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
 ---------------------------------------------------------------------------------------------------------
 
