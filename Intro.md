@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ---
 layout: default
 title: "ARTH111: Introduction to Western Art History - Proto-Renaissance to Contemporary Art"
@@ -8,15 +6,18 @@ next: ../Unit01
 previous: ../../../
 bgimage: arth111.jpg
 ---
-=======
-<span style="background-color: yellow;">Please note: this is a <a href="https://sayloracademy.zendesk.com/hc/en-us/articles/206089967" target="_blank">legacy course</a>. It is open for learning but unsupported. To find supported, current courses, <a href="https://learn.saylor.org" target="_blank">visit our Learn site</a>.</span>
 
->>>>>>> b02f75542f0e6dfacf60949b6a71a34a23f41d09
-=======
->>>>>>> 15ffe0e19752afc42c1166917443f5e8a638eecc
 Course Syllabus for "ARTH111: Introduction to Western Art History: Proto-Renaissance to Contemporary Art"
 ---------------------------------------------------------------------------------------------------------
-<span style="background-color: yellow;"><strong>Please note: this <a href="https://sayloracademy.zendesk.com/hc/en-us/articles/206089967" target="_blank">legacy course</a> does not offer a certificate and may contain broken links and outdated information.</strong> Although archived, it is open for learning without registration or enrollment. Please consider contributing updates to <a href="https://github.com/saylordotorg/course_arth111" target="_blank">this course on GitHub</a> (you can also adopt, adapt, and distribute this course under the terms of the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 license</a>). <strong>To find fully-supported, current courses, <a href="https://learn.saylor.org" target="_blank">visit our Learn site</a>.</strong></span>
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_arth111) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
 
 In this course, we will study important movements and some influential
 artists in Western art history. We will begin with the
