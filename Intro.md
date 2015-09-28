@@ -141,3 +141,4 @@ also can be easily located in a Google search.
 - [Unit 9](https://legacy.saylor.org/arth111/Unit09/)
 - [Unit 10](https://legacy.saylor.org/arth111/Unit10/)
 - [Unit 11](https://legacy.saylor.org/arth111/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH111/ARTH111-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH111/ARTH111-FinalExam-Answers.html)
