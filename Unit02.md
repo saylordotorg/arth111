@@ -53,7 +53,7 @@
         Dukes of Burgundy, who were major art patrons.   
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-europe15thcolbeck-PD.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/11/ARTH111-1-europe15thcolbeck-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-europe15thcolbeck-PD.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-1-europe15thcolbeck-PD.jpg)  
            
            
          Terms of Use: The image above is in the Public Domain.
@@ -62,7 +62,7 @@
         Berry*”**
 
         Link: Wikipedia: [“*Les Trés Riches Heures du Duc de
-        Berry*”](http://www.saylor.org/site/wp-content/uploads/2011/06/Tres-Riches-Heures-du-Duc-de-Berry.pdf)
+        Berry*”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Tres-Riches-Heures-du-Duc-de-Berry.pdf)
         (PDF)  
            
          Instructions: Read this introduction to “illuminated
@@ -165,7 +165,7 @@
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2_002.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/11/ARTH111-2.1-Van-Eyck-Arnolfini-Portrait-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2_002.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-2.1-Van-Eyck-Arnolfini-Portrait-PD.jpg)  
            
            
            
@@ -197,7 +197,7 @@
     -   **Reading: Wikipedia: “Portinari Altarpiece”**
 
         Link: Wikipedia: [“Portinari
-        Altarpiece”](http://www.saylor.org/site/wp-content/uploads/2011/06/Portinari-Altarpiece.pdf)
+        Altarpiece”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Portinari-Altarpiece.pdf)
         (PDF)  
            
          Instructions: Read about this work by the Flemish painter, Hugo
@@ -263,7 +263,7 @@
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/11/ARTH111-2.2-Konrad-Witz-Petri-fish-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-2.2-Konrad-Witz-Petri-fish-PD.jpg)  
            
            
          Terms of Use: This material is in the public domain
@@ -271,7 +271,7 @@
     -   **Web Media: Wikipedia: “Nuremberg Chronicle”**
 
         Link: Wikipedia: [“Nuremberg
-        Chronicle”](http://www.saylor.org/site/wp-content/uploads/2011/06/Nuremberg-Chronicle.pdf)
+        Chronicle”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Nuremberg-Chronicle.pdf)
         (PDF)  
            
          Instructions: After Gutenberg’s innovations with movable type,
@@ -289,7 +289,7 @@
     -   **Web Media: Wikipedia: “Martin Schongauer”**
 
         Link: Wikipedia: [“Martin
-        Schongauer”](http://www.saylor.org/site/wp-content/uploads/2011/06/Martin-Schongauer.pdf)
+        Schongauer”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Martin-Schongauer.pdf)
         (PDF)  
            
          Instructions: Read the Wikipedia entry. Then, click on the

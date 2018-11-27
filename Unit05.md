@@ -66,7 +66,7 @@ Also available in:
 
 Instructions: Listen to 15-minute video on a fascinating painting by Hans Holbein, who worked at the court of Henry VIII in England. Supplement this audio lecture with a close up. Then, listen to "Portrait of Henry VIII" (4 minutes).
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/608px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/608px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" style="width: 608px; height: 4p599x;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/608px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/608px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg" style="width: 608px; height: 4p599x;" /></a>
 
 Terms of Use: The artwork is in the public domain. Please respect the copyright and terms of use displayed on the webpage above.
 	 
@@ -74,7 +74,7 @@ Terms of Use: The artwork is in the public domain. Please respect the copyright 
 
 **Web Media: Wikipedia: “The Garden of Earthly Delights”**
 
-Link: Wikipedia: <a href="http://www.saylor.org/site/wp-content/uploads/2011/06/The-Garden-on-earthly-Delights.pdf" target="_blank">"The Garden of Earthly Delights"</a> (PDF)
+Link: Wikipedia: <a href="https://resources.saylor.org/archived/wp-content/uploads/2011/06/The-Garden-on-earthly-Delights.pdf" target="_blank">"The Garden of Earthly Delights"</a> (PDF)
 
 Instructions: Read the webpage. Also, click on each thumbnail to enlarge all reproductions to view this unusual triptych by Bosch. Note the continuity from earlier Netherlandish painting we have looked at, though this work is even more complex in composition. Bosch can also be considered the epitome of late Gothic.
 
@@ -90,7 +90,7 @@ Terms of Use: Please respect the copyright and terms of use displayed on the web
 
 **Web Media: Wikipedia: “Caterina van Hemessen”**
 
-Link: Wikipedia: <a href="http://www.saylor.org/site/wp-content/uploads/2011/06/Caterina-Van-Hemessen.pdf" target="_blank">"Caterina van Hemessen"</a> (PDF)
+Link: Wikipedia: <a href="https://resources.saylor.org/archived/wp-content/uploads/2011/06/Caterina-Van-Hemessen.pdf" target="_blank">"Caterina van Hemessen"</a> (PDF)
 
 Instructions: Read this entry on an early female Flemish painter.
 
@@ -98,7 +98,7 @@ Terms of Use: The article above is released under a <a href="http://creativecomm
 
 **Web Media: Wikipedia: “Pieter Bruegel the Elder”**
 
-Link: Wikipedia: <a href="http://www.saylor.org/site/wp-content/uploads/2011/06/Pieter-Brugel-the-Elder.pdf" target="_blank">"Pieter Bruegel the Elder"</a> (PDF)
+Link: Wikipedia: <a href="https://resources.saylor.org/archived/wp-content/uploads/2011/06/Pieter-Brugel-the-Elder.pdf" target="_blank">"Pieter Bruegel the Elder"</a> (PDF)
 
 Instructions: Read about the brief text on Bruegel, the major Northern painter of the second half of the century. In the section titled "Works," click on *Netherlandish Proverbs*, which will give you text and images of this fascinating work; you can enlarge the full image and its details. Then, return to the Bruegel page and click on a few images that interest you. Be sure to also click on *Hunters in the Snow*, which shows interest in deep space as well as landscape, along with the satirical, symbolic works.
 
@@ -128,19 +128,19 @@ Terms of Use: Please respect the copyright and terms of use displayed on the web
 
 Instructions: Examine each image (click to view in a separate tab). This building in Valladolid represents a late Gothic in Spain sometimes called *plateresque* (referring to ironwork), for its detailed sculptural ornamentation.
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/411px-Valladolid_San_Gregorio_20080815.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/411px-Valladolid_San_Gregorio_20080815.jpg" style="height: 200px;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/411px-Valladolid_San_Gregorio_20080815.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/411px-Valladolid_San_Gregorio_20080815.jpg" style="height: 200px;" /></a>
 
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/800px-Valladolid_museo_escultura_Patio_menor_de_entrada.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/800px-Valladolid_museo_escultura_Patio_menor_de_entrada.jpg" style="height: 200px;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-Valladolid_museo_escultura_Patio_menor_de_entrada.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-Valladolid_museo_escultura_Patio_menor_de_entrada.jpg" style="height: 200px;" /></a>
 
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/705px-San_Gregorio_VA_2.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/705px-San_Gregorio_VA_2.jpg" style="height: 200px;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/705px-San_Gregorio_VA_2.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/705px-San_Gregorio_VA_2.jpg" style="height: 200px;" /></a>
 
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/797px-San_Gregorio_VA_5.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/797px-San_Gregorio_VA_5.jpg" style="height: 200px;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/797px-San_Gregorio_VA_5.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/797px-San_Gregorio_VA_5.jpg" style="height: 200px;" /></a>
 
 
-<a href="http://www.saylor.org/site/wp-content/uploads/2013/12/451px-San_Gregorio_VA_6.jpg" target="_blank"><img src="http://www.saylor.org/site/wp-content/uploads/2013/12/451px-San_Gregorio_VA_6.jpg" style="height: 200px;" /></a>
+<a href="https://resources.saylor.org/archived/wp-content/uploads/2013/12/451px-San_Gregorio_VA_6.jpg" target="_blank"><img src="https://resources.saylor.org/archived/wp-content/uploads/2013/12/451px-San_Gregorio_VA_6.jpg" style="height: 200px;" /></a>
 
 
 Terms of Use: The photographs above are released under a <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-Share-Alike License 3.0</a> (HTML). You can find the original Wikipedia version of this article <a href="http://es.wikipedia.org/wiki/Colegio_de_San_Gregorio" target="_blank">here</a> (HTML).

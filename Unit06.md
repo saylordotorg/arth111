@@ -61,7 +61,7 @@
     -   **Reading: Wikipedia: “Carlo Maderno”**
 
         Link: Wikipedia: [“Carlo
-        Maderno”](http://www.saylor.org/site/wp-content/uploads/2011/06/Carlo-Maderno.pdf)
+        Maderno”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Carlo-Maderno.pdf)
         (PDF)  
            
          Instructions: Read the brief text and enlarge the images
@@ -94,10 +94,10 @@
         [YouTube](http://www.youtube.com/user/smarthistoryvideos#p/search/0/mgSyIT3mjNM) Bernini's
         "David"  
 
-        [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/ARTH111-BerninisDavid.pdf)
+        [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-BerninisDavid.pdf)
         Bernini's "David"   
 
-        [PDF](http://www.saylor.org/site/wp-content/uploads/2011/09/ARTH111-BerninisEcstasy.pdf)
+        [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-BerninisEcstasy.pdf)
         Bernini's "Ecstasy of St. Theresa"  
            
          Instructions: Watch the 3-minute video “Bernini's St. Peter's
@@ -136,7 +136,7 @@
         “Caravaggio’s *Crucifixion of St. Peter*”**
 
         Links: Smarthistory: [“Caravaggio’s *Deposition, or
-        Entombment*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-Caravaggios-Deposition-or-Entombment.pdf) (PDF), [“Caravaggio’s
+        Entombment*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-Caravaggios-Deposition-or-Entombment.pdf) (PDF), [“Caravaggio’s
         *Calling of St.
         Matthew*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-6.1-CallingofSaintMatthew-Smarthistory-CCBYNCSA_files/ARTH111-6.1-CallingofSaintMatthew-Smarthistory-CCBYNCSA.html)* *(HTML),
         and [“Caravaggio’s *Crucifixion of St.
@@ -174,7 +174,7 @@
     -   **Web Media: Casa-in-italia.com’s “Pozzo – Sant’Ignazio”**
 
         Link: Casainitalia.com’s [“Pozzo –
-        Sant’Ignazio”](http://www.saylor.org/site/wp-content/uploads/2011/09/ARTH111-PozzoSantIgnazio.pdf)
+        Sant’Ignazio”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-PozzoSantIgnazio.pdf)
         (PDF)   
            
          Instructions: Read the brief introductory text, and click on
@@ -198,7 +198,7 @@
         “Claude Lorraine”**
 
         Links: Smarthistory: [“France 1600 -
-        1700”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-France-1600-1700.pdf) (PDF),
+        1700”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-France-1600-1700.pdf) (PDF),
         [“Poussin”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-6.2-NicolasPoussin-Smarthistory-CCBYNCSA_files/ARTH111-6.2-NicolasPoussin-Smarthistory-CCBYNCSA.html) (HTML),
         and [“Claude
         Lorrain”](http://www.youtube.com/watch?v=8srKBSBnCNg) (YouTube)
@@ -244,7 +244,7 @@
         anticipates styles of the following century.  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/not_detected_189892-1639.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/not_detected_189892-1639.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/not_detected_189892-1639.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/not_detected_189892-1639.jpg)  
            
          Terms of Use: The image above is in the Public Domain.
 
@@ -305,7 +305,7 @@
         the Cross*”**
 
         Link: Smarthistory: [“Flanders: Ruben’s *The Elevation of the
-        Cross*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-6.2-Rubens-The-Elevation-of-the-Cross.pdf)
+        Cross*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-6.2-Rubens-The-Elevation-of-the-Cross.pdf)
         (PDF)  
            
          Instructions: Read this text on Rubens and Flemish art, also
@@ -321,7 +321,7 @@
     -   **Web Media: SmartHistory: “1600 - 1700: The Baroque”**
 
         Link: SmartHistory: [“1600 - 1700: The
-        Baroque”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-6.2-Rubens-The-Elevation-of-the-Cross.pdf)
+        Baroque”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-6.2-Rubens-The-Elevation-of-the-Cross.pdf)
         (PDF)  
            
          Instructions: Read the text for a further explanation of
@@ -337,7 +337,7 @@
     -   **Web Media: Webmuseum Paris’s “Van Dyck”**
 
         Link: Webmuseum Paris’s [“Van
-        Dyck”](http://www.saylor.org/site/wp-content/uploads/2011/09/ARTH111-SirAnthonyVanDyck.pdf)
+        Dyck”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-SirAnthonyVanDyck.pdf)
         (PDF)  
            
          Instructions: Read the text and examine the images on this
@@ -355,7 +355,7 @@
     -   **Web Media: Wikipedia: “Dutch Golden Age Painting”**
 
         Link: Wikipedia: [“Dutch Golden Age
-        Painting”](http://www.saylor.org/site/wp-content/uploads/2011/06/Dutch-Golden-Age-painting.pdf)
+        Painting”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Dutch-Golden-Age-painting.pdf)
         (PDF)  
            
          Instructions: Read this page on Dutch seventeenth-century
@@ -371,7 +371,7 @@
     -   **Web Media: Wikipedia: “Rembrandt”**
 
         Link: Wikipedia:
-        [“Rembrandt”](http://www.saylor.org/site/wp-content/uploads/2011/06/Rembrandt.pdf)
+        [“Rembrandt”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Rembrandt.pdf)
         (PDF)  
            
          Instructions: Read this article about Rembrandt; enlarge

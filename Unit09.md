@@ -51,17 +51,17 @@
         Picasso’s *Still Life with Chair Caning*”**
 
         Links: Smarthistory: [“Fauvism and Matisse’s *Bonheur de
-        Vivre*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-9.1-Matisses-Bonheur-de-vivre.pdf)
+        Vivre*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-9.1-Matisses-Bonheur-de-vivre.pdf)
         (PDF), [“Les Demoiselles
         d'Avignon”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-9.1-LesDemoisellesdAvignon-Smarthistory-CCBYNCSA_files/ARTH111-9.1-LesDemoisellesdAvignon-Smarthistory-CCBYNCSA.html) (HTML),
         [“Picasso Early
-        Work”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-9.1-Picassos-Early-Work.pdf)
+        Work”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-9.1-Picassos-Early-Work.pdf)
         (PDF), [“Matisse's *Dance
-        I*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-9.1-Matisses-Dance-I.pdf)
+        I*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-9.1-Matisses-Dance-I.pdf)
         (PDF), [“Expressionism: Kirchner's *Street,
         Dresden*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-9.1-Expressionism-Smarthistory-CCBYNCSA_files/ARTH111-9.1-Expressionism-Smarthistory-CCBYNCSA.html)
         (HTML), [“Georges Braque's *The
-        Portuguese*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-9.1-Braques-The-Portuguese.pdf)
+        Portuguese*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-9.1-Braques-The-Portuguese.pdf)
         (PDF), [“Cubism & Picasso's *Still Life with Chair
         Caning*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-9.1-Cubism-Smarthistory-CCBYNCSA_files/ARTH111-9.1-Cubism-Smarthistory-CCBYNCSA.html) (HTML)  
            
@@ -144,7 +144,7 @@
     -   **Reading: Wikipedia: “Readymades of Marcel Duchamp”**
 
         Link: Wikipedia: [“Readymades of Marcel
-        Duchamp”](http://www.saylor.org/site/wp-content/uploads/2011/06/Readymades-of-Marcel-Duchamp.pdf)
+        Duchamp”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Readymades-of-Marcel-Duchamp.pdf)
         (PDF)  
            
          Instructions: Read the Wikipedia entry. Then, from the list of
@@ -217,7 +217,7 @@
     -   **Reading: Wikipedia: “Armory Show”**
 
         Link: Wikipedia: [“Armory
-        Show”](http://www.saylor.org/site/wp-content/uploads/2011/06/Armory-Show.pdf)
+        Show”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Armory-Show.pdf)
         (PDF)  
            
          Instructions: Browse this page on this 1913 show in New York
@@ -231,7 +231,7 @@
     -   **Reading: Wikipedia: “De Stijl”**
 
         Link: Wikipedia: [“De
-        Stijl”](http://www.saylor.org/site/wp-content/uploads/2011/06/De-Stijl.pdf)
+        Stijl”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/De-Stijl.pdf)
         (PDF)  
            
          Instructions: Read the entry on this loose design movement in
@@ -268,7 +268,7 @@
     -   **Reading: Boundless: “Neue Sachlichkeit”**
 
         Link: Boundless: [“Neue
-        Sachlichkeit”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH111-9.2-NeueSachlichkeit.pdf) (PDF)  
+        Sachlichkeit”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH111-9.2-NeueSachlichkeit.pdf) (PDF)  
            
          Instructions: Read this article about the character of German
         art between WWI and WWII. Be sure to study the accompanying
@@ -337,7 +337,7 @@
     -   **Reading: Wikipedia: “Bauhaus”**
 
         Link: Wikipedia:
-        [“Bauhaus”](http://www.saylor.org/site/wp-content/uploads/2011/06/Bauhaus.pdf)
+        [“Bauhaus”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Bauhaus.pdf)
         (PDF)  
            
          Instructions: Read this entry and browse the images for more
@@ -352,7 +352,7 @@
     -   **Reading: Wikipedia: “Degenerate Art”**
 
         Link: Wikipedia: [“Degenerate
-        Art”](http://www.saylor.org/site/wp-content/uploads/2011/06/Degenerte-Art.pdf)
+        Art”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Degenerte-Art.pdf)
         (PDF)  
            
          Instructions: Read this entry about Hitler’s attempts to ban
@@ -457,7 +457,7 @@
     -   **Web Media: Wikipedia: “Diego Rivera”**
 
         Link: Wikipedia: [“Diego
-        Rivera”](http://www.saylor.org/site/wp-content/uploads/2011/06/Diego-Rivera.pdf)
+        Rivera”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Diego-Rivera.pdf)
         (PDF)  
            
          Instructions: Read about Mexican artist Diego Rivera, and
@@ -502,7 +502,7 @@
     -   **Reading: Smarthistory: “Early Modern Photography”**
 
         Link: Smarthistory: [“Early Modern
-        Photography”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-9.2-Early-Modern-Photography.pdf)
+        Photography”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-9.2-Early-Modern-Photography.pdf)
         (PDF)  
            
          Instructions: Read this text.  
@@ -517,7 +517,7 @@
     -   **Web Media: Wikipedia: “Dorothea Lange”**
 
         Link: Wikipedia: [“Dorothea
-        Lange”](http://www.saylor.org/site/wp-content/uploads/2011/06/Dorothea-Lange.pdf)
+        Lange”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Dorothea-Lange.pdf)
         (PDF)  
            
          Instructions: Read about this American documentary

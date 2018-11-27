@@ -91,7 +91,7 @@
         Grande Odalisque (1814)”**
 
         Link: Smarthistory: [“Jean-Auguste-Dominique
-        Ingres”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.1-Jean-Auguste-Dominique-Ingres.pdf)
+        Ingres”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.1-Jean-Auguste-Dominique-Ingres.pdf)
         (PDF) and [“La Grande Odalisque
         (1814)”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-8.1-IngresLaGrandOdalisque-Smarthistory-CCBYNCSA_files/ARTH111-8.1-IngresLaGrandOdalisque-Smarthistory-CCBYNCSA.html) (HTML)  
            
@@ -115,7 +115,7 @@
         May 1808*”**
 
         Link: Smarthistory: [“Romanticism in Spain: Goya’s *Third of May
-        1808”*](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.1-Romanticism-in-Spain-Goya%E2%80%99s-Third-of-May-1808.pdf)
+        1808”*](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.1-Romanticism-in-Spain-Goya%E2%80%99s-Third-of-May-1808.pdf)
         (PDF)  
            
          Also available in:  
@@ -188,39 +188,39 @@
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/glad-day-or-the-dance-of-albion.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/glad-day-or-the-dance-of-albion.jpgBlog.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/glad-day-or-the-dance-of-albion.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/glad-day-or-the-dance-of-albion.jpgBlog.jpg)  
          *Glad Day*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/348px-Joseph_of_Arimathea_Among_the_Rocks_of_Albion.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/348px-Joseph_of_Arimathea_Among_the_Rocks_of_Albion.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/348px-Joseph_of_Arimathea_Among_the_Rocks_of_Albion.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/348px-Joseph_of_Arimathea_Among_the_Rocks_of_Albion.jpg)  
          *Joseph of Arimathea Among the Rocks of Albion*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-Blake_Dante_Hell_V.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/800px-Blake_Dante_Hell_V.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-Blake_Dante_Hell_V.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-Blake_Dante_Hell_V.jpg)  
          *Whirlwind of Lovers (Illustration to Dante's Inferno)*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/Blake_The_Blasphemer.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/Blake_The_Blasphemer.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/Blake_The_Blasphemer.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/Blake_The_Blasphemer.jpg)  
          *The Blasphemer*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blake_-_Nebuchadnezzar_-_WGA02216.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/800px-William_Blake_-_Nebuchadnezzar_-_WGA02216.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blake_-_Nebuchadnezzar_-_WGA02216.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-William_Blake_-_Nebuchadnezzar_-_WGA02216.jpg)  
          *Nebuchadnezzar*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blake_007.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/800px-William_Blake_007.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blake_007.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-William_Blake_007.jpg)  
          *Satan Inflicting Boils on Job*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/plate23.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/plate23.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/plate23.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/plate23.jpg)  
          *The Book of Urizen: The Web of Religion*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/Blake_ancient_of_days.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/Blake_ancient_of_days.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/Blake_ancient_of_days.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/Blake_ancient_of_days.jpg)  
          *The Ancient of Days*  
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blakes_Cain_and_Abel.jpg)](http://www.saylor.org/site/wp-content/uploads/2013/12/800px-William_Blakes_Cain_and_Abel.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/800px-William_Blakes_Cain_and_Abel.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/12/800px-William_Blakes_Cain_and_Abel.jpg)  
          *The Body of Abel Found by Adam and Eve*  
            
            
@@ -275,10 +275,10 @@
         “*The Artist’s Studio*”**
 
         Link: SmartHistory: Beth Gersh-Nesic’s
-        [“Realism”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-Realism.pdf)
+        [“Realism”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-Realism.pdf)
         (PDF), [“Courbet's *Bonjour Monsieur
-        Courbet”*](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-Courbets-Bonjour-Monsieur-Courbet.pdf)
-        [**](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-Courbets-Bonjour-Monsieur-Courbet.pdf)(PDF)*,* *[“Stonebreakers”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-The-Stonebreakers.pdf)*
+        Courbet”*](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-Courbets-Bonjour-Monsieur-Courbet.pdf)
+        [**](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-Courbets-Bonjour-Monsieur-Courbet.pdf)(PDF)*,* *[“Stonebreakers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-The-Stonebreakers.pdf)*
         (PDF)*,* and [*“The Artist’s
         Studio”*](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-8.1-TheArtistsStudio-Smarthistory-CCBYNCSA_files/ARTH111-8.1-TheArtistsStudio-Smarthistory-CCBYNCSA.html) (HTML)  
            
@@ -440,11 +440,11 @@
         “Whistler, Symphony in White” and “Sargent's El Jaleo”**
 
         Link: Smarthistory: [“America in the Gilded
-        Age”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-America-in-the-Gilded-Age.pdf)
+        Age”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-America-in-the-Gilded-Age.pdf)
         (PDF), [“Whistler, Symphony in
-        White”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-Whistler-Symphony-in-White.pdf)
+        White”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-Whistler-Symphony-in-White.pdf)
         (PDF) and [“Sargent's El
-        Jaleo”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-8.2-Sargents-El-Jaleo.pdf)
+        Jaleo”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-8.2-Sargents-El-Jaleo.pdf)
         (PDF)   
            
          Instructions: Read the three texts.  
@@ -475,7 +475,7 @@
     -   **Reading: Wikipedia: “Rodin”**
 
         Link: Wikipedia:
-        [“Rodin”](http://www.saylor.org/site/wp-content/uploads/2011/06/Auguste-Rodin.pdf)
+        [“Rodin”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Auguste-Rodin.pdf)
         (PDF)  
            
          Instructions: Read about the French sculptor Rodin, whose long
@@ -526,7 +526,7 @@
     -   **Web Media: Wikipedia’s “Eadweard Muybridge”**
 
         Link: Wikipedia: [“Eadweard
-        Muybridge”](http://www.saylor.org/site/wp-content/uploads/2011/06/Eadweard-Muybridge.pdf)
+        Muybridge”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Eadweard-Muybridge.pdf)
         (PDF)  
            
          Instructions: Read about Muybridge’s photographic experiments,
@@ -604,7 +604,7 @@
     -   **Web Media: Wikipedia: “Edvard Munch”**
 
         Link: Wikipedia: [“Edvard
-        Munch”](http://www.saylor.org/site/wp-content/uploads/2011/06/Edvard-Munch.pdf)
+        Munch”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Edvard-Munch.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry. In the “Gallery”
@@ -621,7 +621,7 @@
     -   **Web Media: Wikipedia’s “Aubrey Beardsley”**
 
         Link: Wikipedia’s [“Aubrey
-        Beardsley”](http://www.saylor.org/site/wp-content/uploads/2011/06/Aubrey-Beardsley.pdf)
+        Beardsley”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Aubrey-Beardsley.pdf)
         (PDF)  
            
          Instructions: Read this text and examine images accompanying
@@ -686,7 +686,7 @@
     -   **Reading: Wikipedia’s “Palais Garnier” (Paris Opera)**
 
         Link: Wikipedia’s [“Palais
-        Garnier”](http://www.saylor.org/site/wp-content/uploads/2011/06/Palais-Garnier.pdf)
+        Garnier”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Palais-Garnier.pdf)
         (Paris Opera) (PDF)  
            
          Instructions: Read about the history of this building, begun
