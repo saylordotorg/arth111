@@ -89,7 +89,7 @@ bgimage: arth111.jpg
     -   **Reading: SmartHistory: “The Tiepolo Family”**
 
         Link: SmartHistory: [“The Tiepolo
-        Family”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-7.1-The-Tiepolo-Family.pdf)
+        Family”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-7.1-The-Tiepolo-Family.pdf)
         (PDF)  
            
          Instructions: Read this text and carefully examine the images
@@ -221,15 +221,15 @@ bgimage: arth111.jpg
         *Death of Socrates*,” and “David’s *Death of Marat*”**
 
         Links: SmartHistory’s [“1700-1800: Age of
-        Enlightenment”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-7.2-1700-1800-Age-of-Enlightment.pdf)
+        Enlightenment”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-7.2-1700-1800-Age-of-Enlightment.pdf)
         (PDF),
-        [“Neo-Classicism”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-7.2-Neo-Classicism.pdf)
+        [“Neo-Classicism”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-7.2-Neo-Classicism.pdf)
         (PDF), [“David’s *Oath of the
         Horatii*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-7.2-DavidsOathoftheHoratii-Smarthistory-CCBYNCSA_files/ARTH111-7.2-DavidsOathoftheHoratii-Smarthistory-CCBYNCSA.html) (HTML),
         [“David’s *Death of
         Socrates*”](http://www.youtube.com/watch?v=7yqR9LEBf_k)
         **(YouTube), and [“David’s *Death of
-        Marat*”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-7.2-Davids-Death-of-Marat.pdf)
+        Marat*”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-7.2-Davids-Death-of-Marat.pdf)
         (PDF)  
            
          Also available in:  
@@ -257,7 +257,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: The Death of General Wolfe**
 
         Link: Wikipedia: [The Death of General
-        Wolfe](http://www.saylor.org/site/wp-content/uploads/2011/06/The-Death-of-General-Wolfe.pdf) (PDF)  
+        Wolfe](https://resources.saylor.org/archived/wp-content/uploads/2011/06/The-Death-of-General-Wolfe.pdf) (PDF)  
            
          Instructions: Examine this entry on a famous painting by
         Pennsylvania-born artist, Benjamin West, who made his career at
@@ -276,7 +276,7 @@ bgimage: arth111.jpg
         Links: Smarthistory: John Singleton Copley’s [“Boy with a
         Squirrel”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-7.2-BoywithaSquirrel-Smarthistory-CCBYNCSA_files/ARTH111-7.2-BoywithaSquirrel-Smarthistory-CCBYNCSA.html) (HTML)
         and [“Watson and the
-        Shark*”*](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-7.2-Copleys-Watson-and-the-Shark.pdf)
+        Shark*”*](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-7.2-Copleys-Watson-and-the-Shark.pdf)
         (PDF)  
            
          Instructions: Read about painting in America just before the

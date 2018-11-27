@@ -58,7 +58,7 @@ bgimage: arth111.jpg
         “Leonardo’s *Mona Lisa*”**
 
         Links: Smarthistory: [ “Toward the High
-        Renaissance” ](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-3.1-Toward-The-High-Renaissance.pdf) (PDF),
+        Renaissance” ](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-3.1-Toward-The-High-Renaissance.pdf) (PDF),
         [“Leonardo da
         Vinci” ](http://www.saylor.org/resources.saylor.org/ARTH/ARTH111/ARTH111-4.1-Leonardo-Smarthistory-CCBYNCSA_files/ARTH111-4.1-Leonardo-Smarthistory-CCBYNCSA.html)(HTML),
         [“Leonardo’s *Virgin of the
@@ -120,7 +120,7 @@ bgimage: arth111.jpg
 
         Link: SmartHistory: [“Michelangelo: Sculptor, Painter,
         Architect, and
-        Poet”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-4.1-Michelangelo-Sculptor-Painter-Architect-and-Poet.pdf) (PDF),
+        Poet”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-4.1-Michelangelo-Sculptor-Painter-Architect-and-Poet.pdf) (PDF),
         [“Michelangelo’s
         *Pietà*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-4.1-ThePieta-Smarthistory-CCBYNCSA_files/ARTH111-4.1-ThePieta-Smarthistory-CCBYNCSA.html)* *(HTML)*, *[“Michelangelo’s
         *David*”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-4.1-David-Smarthistory-CCBYNCSA_files/ARTH111-4.1-David-Smarthistory-CCBYNCSA.html) (HTML),
@@ -172,7 +172,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Moses (Michelangelo)”**
 
         Link: Wikipedia: [“Moses
-        (Michelangelo)”](http://www.saylor.org/site/wp-content/uploads/2011/06/Moses-Michelangelo.pdf)
+        (Michelangelo)”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Moses-Michelangelo.pdf)
         (PDF)  
            
          Instructions: Prior to his work on *The* *Last Judgment*,
@@ -235,9 +235,9 @@ bgimage: arth111.jpg
         Montorio”**
 
         Link: Wikipedia: [“Donato
-        Bramante”](http://www.saylor.org/site/wp-content/uploads/2011/06/Donato-Bramante.pdf)
+        Bramante”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Donato-Bramante.pdf)
         (PDF) and [“San Pietro in
-        Montorio”](http://www.saylor.org/site/wp-content/uploads/2011/06/San-Pietro-in-Montorio.pdf)
+        Montorio”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/San-Pietro-in-Montorio.pdf)
         (PDF)  
            
          Instructions: Read both of these Wikipedia entries. Click on
@@ -255,7 +255,7 @@ bgimage: arth111.jpg
         the Reformation”**
 
         Link: SmartHistory: [“1500-1600: End of the Renaissance and the
-        Reformation”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-4.1-1500-1600-End-Of-The-Renaissance.pdf) (PDF)  
+        Reformation”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-4.1-1500-1600-End-Of-The-Renaissance.pdf) (PDF)  
            
          Instructions: Read this introduction to the end of the
         Renaissance and the Reformation.  
@@ -333,7 +333,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Benvenuto Cellini”**
 
         Link: Wikipedia: [“Benvenuto
-        Cellini”](http://www.saylor.org/site/wp-content/uploads/2011/06/Benvenuto-Cellini.pdf)
+        Cellini”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Benvenuto-Cellini.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry and examine images on
@@ -428,7 +428,7 @@ bgimage: arth111.jpg
     -   **Reading: Wikipedia: “Tintoretto”**
 
         Link: Wikipedia:
-        [“Tintoretto”](http://www.saylor.org/site/wp-content/uploads/2011/06/Tintiretto.pdf)
+        [“Tintoretto”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Tintiretto.pdf)
         (PDF)  
            
          Instructions: Skim this Wikipedia entry and examine the images,

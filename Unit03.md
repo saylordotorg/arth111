@@ -78,13 +78,13 @@ bgimage: arth111.jpg
         of Linear Perspective,” and “The Sacrifice of Isaac”**
 
         Link: SmartHistory: [“Florence in the Early
-        Renaissance”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-Florence-in-the-Early-Renaissance.pdf)
+        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-Florence-in-the-Early-Renaissance.pdf)
         (PDF), [“Linear Perspective: Brunelleschi’s
         Experiment”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-3.1-LinearPerspectiveFilippoBrunelleschisExperiment-Smarthistory-CCBYNCSA_files/ARTH111-3.1-LinearPerspectiveFilippoBrunelleschisExperiment-Smarthistory-CCBYNCSA.html) (HTML),
         [“How Brunelleschi Discovered Linear
-        Perspective”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) (PDF),
+        Perspective”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) (PDF),
         [“Early Applications of Linear
-        Perspective”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-Early-Applications-of-Linear-Perspective.pdf)
+        Perspective”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-Early-Applications-of-Linear-Perspective.pdf)
         (PDF), and [“The Sacrifice of
         Isaac”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-3.1-LinearPerspectiveFilippoBrunelleschisExperiment-Smarthistory-CCBYNCSA_files/ARTH111-3.1-LinearPerspectiveFilippoBrunelleschisExperiment-Smarthistory-CCBYNCSA.html) (YouTube)
         (HTML)  
@@ -94,9 +94,9 @@ bgimage: arth111.jpg
         “Florence in the Early Renaissance.” Then, read each of the
         following sections: “Linear Perspective: Brunelleschi’s
         Experiment,” [“How Brunelleschi Discovered Linear
-        Perspective,”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) and [“Early
+        Perspective,”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) and [“Early
         Applications of Linear
-        Perspective.”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-Early-Applications-of-Linear-Perspective.pdf)
+        Perspective.”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-Early-Applications-of-Linear-Perspective.pdf)
         Also click on the link to “The Sacrifice of Isaac” and watch the
         11-minute video with speakers Dr. David Drogin and Dr. Beth
         Harris.  
@@ -162,7 +162,7 @@ bgimage: arth111.jpg
         Links: Smarthistory: [“Donatello’s
         David”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-3.1-Donatello-Smarthistory-CCBYNCSA_files/ARTH111-3.1-Donatello-Smarthistory-CCBYNCSA.html)
         (YouTube) (HTML) and
-        [“Contrapposto”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH111-3.1-Contapposto.pdf)
+        [“Contrapposto”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-3.1-Contapposto.pdf)
         (PDF)  
            
          Instructions: Read both sections: “Donatello’s David” and
@@ -177,7 +177,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Equestrian Statue”**
 
         Link: Wikipedia: [“Equestrian
-        Statue”](http://www.saylor.org/site/wp-content/uploads/2011/06/Equestrian-statue.pdf)
+        Statue”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Equestrian-statue.pdf)
         (PDF)  
            
          Instructions: This page offers a brief history of the
@@ -185,9 +185,9 @@ bgimage: arth111.jpg
         and was appropriated in the Renaissance, mainly to honor heroic
         soldiers.  Skim through the section on the Renaissance and
         follow links to
-        “[Gattamalata](http://www.saylor.org/site/wp-content/uploads/2011/06/Gattamalata.pdf)”
+        “[Gattamalata](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Gattamalata.pdf)”
         (by Donatello) and “[Bartolomeo
-        Colleoni](http://www.saylor.org/site/wp-content/uploads/2011/06/Bartolomeo-Colleoni.pdf)”
+        Colleoni](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Bartolomeo-Colleoni.pdf)”
         (by Verrocchio).  
            
          Terms of Use: The articles above are released under a [Creative
@@ -246,11 +246,11 @@ bgimage: arth111.jpg
         and “Andrea del Castagno”**
 
         Links: Wikipedia: [“Domenico
-        Ghirlandaio,”](http://www.saylor.org/site/wp-content/uploads/2011/06/Domencio-Ghirlandaio.pdf)
+        Ghirlandaio,”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Domencio-Ghirlandaio.pdf)
         (PDF) [“Paolo
-        Uccello,”](http://www.saylor.org/site/wp-content/uploads/2011/06/Paolo-Uccello.pdf)
+        Uccello,”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Paolo-Uccello.pdf)
         (PDF) and [“Andrea del
-        Castagno”](http://www.saylor.org/site/wp-content/uploads/2011/06/Andrea-del-Castagno.pdf)
+        Castagno”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Andrea-del-Castagno.pdf)
         (PDF)  
            
          Instructions: Read these Wikipedia pages on three active, top
@@ -309,7 +309,7 @@ bgimage: arth111.jpg
         BrunelleschisDome.com**
 
         Link: Wikipedia: [“Filippo
-        Brunelleschi”](http://www.saylor.org/site/wp-content/uploads/2011/06/Filippo-Brunelleschi.pdf)
+        Brunelleschi”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Filippo-Brunelleschi.pdf)
         (PDF) and
         [BrunelleschisDome.com](http://www.brunelleschisdome.com/)
         (HTML)  
@@ -351,7 +351,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia’s “Leone Battista Alberti”**
 
         Link: Wikipedia: [“Leone Battista
-        Alberti”](http://www.saylor.org/site/wp-content/uploads/2011/06/Leon-Battista-Alberti.pdf)
+        Alberti”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Leon-Battista-Alberti.pdf)
         (PDF)  
            
          Instructions: Read this summary of the career of Alberti, well
@@ -393,7 +393,7 @@ bgimage: arth111.jpg
     -   **Reading: Wikipedia: “Brera Madonna”**
 
         Link: Wikipedia: [“Brera
-        Madonna”](http://www.saylor.org/site/wp-content/uploads/2011/06/Brera-madonna.pdf)
+        Madonna”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Brera-madonna.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry for more information on
@@ -438,7 +438,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Pietro Perugino”**
 
         Link: Wikipedia: [“Pietro
-        Perugino”](http://www.saylor.org/site/wp-content/uploads/2011/06/Pietro-Perugino.pdf)
+        Perugino”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Pietro-Perugino.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry and click on the
