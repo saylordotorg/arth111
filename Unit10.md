@@ -104,7 +104,7 @@ bgimage: arth111.jpg
         Johns*”**
 
         Link: Museum of Modern Art, The Collection: [“*Flag, Japser
-        Johns*”](https://resources.saylor.org/archived/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=56495#)
+        Johns*”](https://resources.saylor.org/wwwresources/archived/site/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=56495#)
         (HTML)  
            
          Instructions: Read the text, and play the 1-minute audio clip
@@ -116,7 +116,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Richard Hamilton”**
 
         Link: Wikipedia: [“Richard
-        Hamilton”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Richard-Hamilton.pdf)
+        Hamilton”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Richard-Hamilton.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry with a focus on the
@@ -135,7 +135,7 @@ bgimage: arth111.jpg
         Link: SmartHistory: [“1960 - 2010: Age of
         Post-Colonialism”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-10.1-1960-AgeofPost-Colonialism-Smarthistory-CCBYNCSA_files/ARTH111-10.1-1960-AgeofPost-Colonialism-Smarthistory-CCBYNCSA.html)
         (HTML) and [“Contemporary
-        Art”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-Contemporary-Art.pdf)
+        Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ARTH111-Contemporary-Art.pdf)
         (PDF)  
            
          Also available in:  
@@ -214,12 +214,12 @@ bgimage: arth111.jpg
         Links: Smarthistory: [“Minimalism: Robert Morris’s *Untitled*
         (L-Beams)”](http://resources.saylor.org.s3.amazonaws.com/ARTH/ARTH111/ARTH111-10.1-MinimalismbrJuddsUntitled-Smarthistory-CCBYNCSA_files/ARTH111-10.1-MinimalismbrJuddsUntitled-Smarthistory-CCBYNCSA.html) (HTML),
         [“Conceptual Art: Vito Acconci's *Following
-        Piece”*](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-10.1-conceptual-art-vito-acconcis-following-piece.pdf) (PDF),
+        Piece”*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ARTH111-10.1-conceptual-art-vito-acconcis-following-piece.pdf) (PDF),
         [“Feminist Art; Kelly's Post-Partum
-        Document”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-10.1-Feminist-Art-Kellys-Post-Partum-Document.pdf) (PDF),
+        Document”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ARTH111-10.1-Feminist-Art-Kellys-Post-Partum-Document.pdf) (PDF),
         and [“Post-Minimalism: Nauman's *The True Artist Helps the World
         by Revealing Mystic
-        Truths”*](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH111-10.1-Naumans-The-True-Artist-Helps-the-World-by-Revealing-Mystic-Truths.pdf)* *(PDF)  
+        Truths”*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/ARTH111-10.1-Naumans-The-True-Artist-Helps-the-World-by-Revealing-Mystic-Truths.pdf)* *(PDF)  
            
          Instructions: Read each of these texts.  
            
@@ -250,7 +250,7 @@ bgimage: arth111.jpg
     -   **Reading: Wikipedia: “Photorealism”**
 
         Link: Wikipedia:
-        [“Photorealism”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Photorealism.pdf)
+        [“Photorealism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Photorealism.pdf)
         (PDF)  
            
          Instructions: Read this entry.  
@@ -288,7 +288,7 @@ bgimage: arth111.jpg
     -   **Reading: Wikipedia: “Vietnam Veterans Memorial”**
 
         Link: Wikipedia: [“Vietnam Veterans
-        Memorial”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Vietnam-Veterans-Memorial.pdf)
+        Memorial”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Vietnam-Veterans-Memorial.pdf)
         (PDF)  
            
          Instructions: Read this Wikipedia entry, and examine images on

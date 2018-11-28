@@ -61,7 +61,7 @@ bgimage: arth111.jpg
         Dukes of Burgundy, who were major art patrons.   
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-europe15thcolbeck-PD.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-1-europe15thcolbeck-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-europe15thcolbeck-PD.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-1-europe15thcolbeck-PD.jpg)  
            
            
          Terms of Use: The image above is in the Public Domain.
@@ -70,7 +70,7 @@ bgimage: arth111.jpg
         Berry*”**
 
         Link: Wikipedia: [“*Les Trés Riches Heures du Duc de
-        Berry*”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Tres-Riches-Heures-du-Duc-de-Berry.pdf)
+        Berry*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Tres-Riches-Heures-du-Duc-de-Berry.pdf)
         (PDF)  
            
          Instructions: Read this introduction to “illuminated
@@ -173,7 +173,7 @@ bgimage: arth111.jpg
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2_002.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-2.1-Van-Eyck-Arnolfini-Portrait-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2_002.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-2.1-Van-Eyck-Arnolfini-Portrait-PD.jpg)  
            
            
            
@@ -205,7 +205,7 @@ bgimage: arth111.jpg
     -   **Reading: Wikipedia: “Portinari Altarpiece”**
 
         Link: Wikipedia: [“Portinari
-        Altarpiece”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Portinari-Altarpiece.pdf)
+        Altarpiece”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Portinari-Altarpiece.pdf)
         (PDF)  
            
          Instructions: Read about this work by the Flemish painter, Hugo
@@ -271,7 +271,7 @@ bgimage: arth111.jpg
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-2.2-Konrad-Witz-Petri-fish-PD.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-2.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-2.2-Konrad-Witz-Petri-fish-PD.jpg)  
            
            
          Terms of Use: This material is in the public domain
@@ -279,7 +279,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Nuremberg Chronicle”**
 
         Link: Wikipedia: [“Nuremberg
-        Chronicle”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Nuremberg-Chronicle.pdf)
+        Chronicle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Nuremberg-Chronicle.pdf)
         (PDF)  
            
          Instructions: After Gutenberg’s innovations with movable type,
@@ -297,7 +297,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Martin Schongauer”**
 
         Link: Wikipedia: [“Martin
-        Schongauer”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Martin-Schongauer.pdf)
+        Schongauer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Martin-Schongauer.pdf)
         (PDF)  
            
          Instructions: Read the Wikipedia entry. Then, click on the

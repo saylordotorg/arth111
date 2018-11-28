@@ -55,7 +55,7 @@ bgimage: arth111.jpg
 
         Link: University of Austin: Perry-Catañeda Library Map
         Collection:
-        [“Italy,1050”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-Italyabout1050.pdf)
+        [“Italy,1050”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ARTH111-Italyabout1050.pdf)
         (PDF)  
            
          Instructions: Review this period map of the Italian peninsula;
@@ -105,7 +105,7 @@ bgimage: arth111.jpg
     -   **Web Media: Wikipedia: “Bonaventura Berlinghieri”**
 
         Link: Wikipedia: [“Bonaventura
-        Berlinghieri”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-BonBerFran.pdf)
+        Berlinghieri”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ARTH111-BonBerFran.pdf)
         (PDF)  
            
          Instructions: Examine this image of the *St. Francis
@@ -148,9 +148,9 @@ bgimage: arth111.jpg
         “Cappella degli Scrovegni”**
 
         Link: Wikipedia: [“Scrovegni
-        Chapel”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Scrovegni-Chapel.pdf)
+        Chapel”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Scrovegni-Chapel.pdf)
         (PDF) and Wikimedia: [“Cappella degli
-        Scrovegni”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ARTH111-GiottosAllegoriesofVirtues.pdf)
+        Scrovegni”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ARTH111-GiottosAllegoriesofVirtues.pdf)
         (PDF)   
            
          Instructions: Read this entry on Giotto’s most famous work, a
@@ -265,7 +265,7 @@ bgimage: arth111.jpg
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-slo22022-CCBYNC.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-1-slo22022-CCBYNC.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-slo22022-CCBYNC.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-1-slo22022-CCBYNC.jpg)  
            
          Terms of Use: This resource is licensed under a [Creative
         Commons Attribution 2.5 Generic
@@ -282,11 +282,11 @@ bgimage: arth111.jpg
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-itm20021-CCBYNC.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-1-itm20021-CCBYNC.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-itm20021-CCBYNC.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-1-itm20021-CCBYNC.jpg)  
            
            
 
-        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-itm20037-CCBYNC.jpg)](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ARTH111-1-itm20037-CCBYNC.jpg)  
+        [![](Saylor.org%20-%20ARTH111_%20Introduction%20to%20Western%20Art%20History_%20Proto-Renaissance%20to%20Contemporary%20Art%20Syllabus_files/ARTH111-1-itm20037-CCBYNC.jpg)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ARTH111-1-itm20037-CCBYNC.jpg)  
            
            
          Terms of Use: This resource is licensed under a [Creative
@@ -297,9 +297,9 @@ bgimage: arth111.jpg
         Traini”**
 
         Links: Wikipedia: [“The Black
-        Death”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Black-Death.pdf)
+        Death”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Black-Death.pdf)
         (PDF) and [“Francesco
-        Traini”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Francesco-Traini.pdf)
+        Traini”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Francesco-Traini.pdf)
         (PDF)  
            
          Instructions: Read these pages on the “Black Death,” or the
