@@ -81,7 +81,7 @@ Adobe Reader of Flash);
 (worksheets);
 -   be competent in the English language; and
 -   have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 It is strongly recommended that you complete
 [ARTH110](http://www.saylor.org/courses/arth110/) (Introduction to
